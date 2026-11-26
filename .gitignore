@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+
+# Node
+node_modules/
+
+# Secrets — never commit private keys
+*.private.key
+.env
+
+# Local node data
+chain-*.json
+
+# OS
+.DS_Store
+__MACOSX/

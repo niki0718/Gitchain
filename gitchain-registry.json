@@ -1,0 +1,8 @@
+{
+  "// comment": "Add each developer's public key here after running: gitchain keygen --name NAME --email EMAIL",
+  "// permissionless": "This registry is for display only. Transactions are accepted based on Ed25519 signature validity, not registry membership.",
+  "abc@gitchain.com": {
+    "name": "Gitchaintest",
+    "pubkey": "252af784a949bb138c9fb20c067240392a3f7f49806c77a770bc727bddd2bc69"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "difficulty": 3,
+  "port": 6331,
+  "api_port": 8000,
+  "known_peers": [],
+  "mdns_service_type": "_gitchain._tcp.local.",
+  "mdns_service_name": "GitChain Node",
+  "ping_interval": 30,
+  "max_tx_per_block": 10,
+  "mining_reward": 0
+}
